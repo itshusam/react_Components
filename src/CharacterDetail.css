@@ -1,0 +1,12 @@
+.character-detail {
+    padding: 20px;
+  }
+  
+  .character-detail h2 {
+    margin: 0;
+  }
+  
+  .character-detail ul {
+    list-style-type: none;
+    padding: 0;
+  }
